@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ecrudem.github.io/sitemap.html.gz
+Sitemap: https://ecrudem.github.io/app/sitemap.html.gz
+Sitemap: https://ecrudem.github.io/assets/sitemap.html.gz
+Sitemap: https://ecrudem.github.io/css/sitemap.html.gz
+Sitemap: https://ecrudem.github.io/includes/sitemap.html.gz
+Sitemap: https://ecrudem.github.io/item/sitemap.html.gz
+Sitemap: https://ecrudem.github.io/src/sitemap.html.gz
